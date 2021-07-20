@@ -1,3 +1,3 @@
 cout<<"hello world";
 
-consolr.log("jaivnant");
+console.log("jaivnant");
